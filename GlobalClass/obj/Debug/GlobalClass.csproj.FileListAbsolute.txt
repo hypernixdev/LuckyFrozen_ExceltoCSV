@@ -1,0 +1,90 @@
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\GlobalClass.dll
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\GlobalClass.pdb
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\NLog.dll
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\NLog.xml
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CopyComplete
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.dll
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.pdb
+C:\Users\Finsoft\Documents\GitHub\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\GlobalClass.dll
+C:\Users\Finsoft\Documents\GitHub\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\GlobalClass.pdb
+C:\Users\Finsoft\Documents\GitHub\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\NLog.dll
+C:\Users\Finsoft\Documents\GitHub\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\NLog.xml
+C:\Users\Finsoft\Documents\GitHub\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
+C:\Users\Finsoft\Documents\GitHub\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CopyComplete
+C:\Users\Finsoft\Documents\GitHub\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.dll
+C:\Users\Finsoft\Documents\GitHub\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.pdb
+C:\Users\Finsoft\Documents\GitHub\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csprojAssemblyReference.cache
+D:\OldPC\Epicor\Customers Docs\PPChinHin\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\GlobalClass.dll
+D:\OldPC\Epicor\Customers Docs\PPChinHin\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\GlobalClass.pdb
+D:\OldPC\Epicor\Customers Docs\PPChinHin\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\NLog.dll
+D:\OldPC\Epicor\Customers Docs\PPChinHin\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\NLog.xml
+D:\OldPC\Epicor\Customers Docs\PPChinHin\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csprojAssemblyReference.cache
+D:\OldPC\Epicor\Customers Docs\PPChinHin\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
+D:\OldPC\Epicor\Customers Docs\PPChinHin\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CopyComplete
+D:\OldPC\Epicor\Customers Docs\PPChinHin\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.dll
+D:\OldPC\Epicor\Customers Docs\PPChinHin\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.pdb
+C:\Users\user\Documents\GitHub\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\GlobalClass.dll
+C:\Users\user\Documents\GitHub\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\GlobalClass.pdb
+C:\Users\user\Documents\GitHub\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\NLog.dll
+C:\Users\user\Documents\GitHub\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\bin\Debug\NLog.xml
+C:\Users\user\Documents\GitHub\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CopyComplete
+C:\Users\user\Documents\GitHub\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.dll
+C:\Users\user\Documents\GitHub\Nanonet\HumeAutomationEphesoftScheduler\GlobalClass\obj\Debug\GlobalClass.pdb
+C:\Users\user\Documents\GitHub\Metex_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\GlobalClass.dll
+C:\Users\user\Documents\GitHub\Metex_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\GlobalClass.pdb
+C:\Users\user\Documents\GitHub\Metex_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\NLog.dll
+C:\Users\user\Documents\GitHub\Metex_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\NLog.xml
+C:\Users\user\Documents\GitHub\Metex_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Metex_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CopyComplete
+C:\Users\user\Documents\GitHub\Metex_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.dll
+C:\Users\user\Documents\GitHub\Metex_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.pdb
+C:\Users\user\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\GlobalClass.dll
+C:\Users\user\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\GlobalClass.pdb
+C:\Users\user\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\NLog.dll
+C:\Users\user\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\NLog.xml
+C:\Users\user\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CopyComplete
+C:\Users\user\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.dll
+C:\Users\user\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.pdb
+C:\Users\Finsoft\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\GlobalClass.dll
+C:\Users\Finsoft\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\GlobalClass.pdb
+C:\Users\Finsoft\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\NLog.dll
+C:\Users\Finsoft\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\NLog.xml
+C:\Users\Finsoft\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.csprojAssemblyReference.cache
+C:\Users\Finsoft\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
+C:\Users\Finsoft\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CopyComplete
+C:\Users\Finsoft\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.dll
+C:\Users\Finsoft\Documents\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.pdb
+D:\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\GlobalClass.dll
+D:\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\GlobalClass.pdb
+D:\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\NLog.dll
+D:\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\bin\Debug\NLog.xml
+D:\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
+D:\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.csproj.CopyComplete
+D:\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.dll
+D:\GitHub\CHCG_APInvoice_NanonetScheduler\GlobalClass\obj\Debug\GlobalClass.pdb
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\GlobalClass.dll
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\GlobalClass.pdb
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NLog.dll
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NLog.xml
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\obj\Debug\GlobalClass.csproj.CopyComplete
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\obj\Debug\GlobalClass.dll
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\obj\Debug\GlobalClass.pdb
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\BouncyCastle.Crypto.dll
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.dll
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.OOXML.dll
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\BouncyCastle.Crypto.xml
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.pdb
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.xml
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.OOXML.pdb
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.OOXML.xml
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\Source Code\LF_ExceltoCSV\LF_ExceltoCSV\GlobalClass\bin\Debug\NPOI.OpenXmlFormats.pdb

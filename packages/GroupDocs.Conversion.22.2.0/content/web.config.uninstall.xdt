@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+
+  <!-- Remove added binding redirect -->
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.BarCode')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.CAD')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Cells')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Diagram')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Email')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Imaging')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Note')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.PDF')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.PSD')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Slides.NET')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Tasks')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Words')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Words.Shaping.HarfBuzz')" >
+      </dependentAssembly>
+      <dependentAssembly xdt:Transform="Remove"
+          xdt:Locator="Condition(./_defaultNamespace:assemblyIdentity/@name='Aspose.Zip')" >
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+
+</configuration>

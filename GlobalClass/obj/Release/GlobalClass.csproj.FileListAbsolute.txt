@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\bin\Release\GlobalClass.dll
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\bin\Release\GlobalClass.pdb
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\bin\Release\NLog.dll
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\bin\Release\NLog.xml
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\obj\Release\GlobalClass.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\obj\Release\GlobalClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\obj\Release\GlobalClass.csproj.CopyComplete
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\obj\Release\GlobalClass.dll
+C:\Users\user\source\repos\HumeAutomationEphesoftScheduler\GlobalClass\obj\Release\GlobalClass.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+    <PropertyGroup>
+        <ShouldIncludeNativeHarfBuzz Condition=" '$(ShouldIncludeNativeHarfBuzz)' == '' ">True</ShouldIncludeNativeHarfBuzz>
+    </PropertyGroup>
+
+    <!-- 1. Get Architecture -->
+    <PropertyGroup>
+        <!-- Explicit x86/x64 -->
+        <PreferredNativeHarfBuzz Condition=" '$(PreferredNativeHarfBuzz)' == '' and ( '$(PlatformTarget)' == 'x64' or '$(PlatformTarget)' == 'x86' ) ">$(PlatformTarget)</PreferredNativeHarfBuzz> 
+        <!-- Any CPU, considering Prefer32Bit -->
+        <PreferredNativeHarfBuzz Condition=" '$(PreferredNativeHarfBuzz)' == '' and '$(Prefer32Bit)' == 'False' ">x64</PreferredNativeHarfBuzz>  
+        <PreferredNativeHarfBuzz Condition=" '$(PreferredNativeHarfBuzz)' == '' and '$(Prefer32Bit)' == 'True' ">x86</PreferredNativeHarfBuzz> 
+        <!-- Fall back to x64 on 64-bit machines -->
+        <PreferredNativeHarfBuzz Condition=" '$(PreferredNativeHarfBuzz)' == '' and $([System.Environment]::Is64BitOperatingSystem) ">x64</PreferredNativeHarfBuzz> 
+        <!-- Fall back to x86 -->
+        <PreferredNativeHarfBuzz Condition=" '$(PreferredNativeHarfBuzz)' == '' ">x86</PreferredNativeHarfBuzz>
+    </PropertyGroup>
+
+    <!-- 2. Get the paths to native HarfBuzz libraries -->
+    <PropertyGroup>
+      <PreferredNativeHarfBuzzDirectory Condition=" '$(PreferredNativeHarfBuzzDirectory)' == '' and '$([MSBuild]::IsOSUnixLike())' == 'True' ">$(MSBuildThisFileDirectory)..\..\runtimes\linux-$(PreferredNativeHarfBuzz)\native</PreferredNativeHarfBuzzDirectory>
+      <PreferredNativeHarfBuzzDirectory Condition=" '$(PreferredNativeHarfBuzzDirectory)' == '' ">$(MSBuildThisFileDirectory)..\..\runtimes\win-$(PreferredNativeHarfBuzz)\native</PreferredNativeHarfBuzzDirectory>
+    </PropertyGroup>
+
+    <!-- 3. Include Win native HarfBuzz libraries -->
+    <ItemGroup Condition=" '$(ShouldIncludeNativeHarfBuzz)' != 'False' and '$([MSBuild]::IsOSUnixLike())' == 'False'">
+
+      <None Include="$(PreferredNativeHarfBuzzDirectory)\harfbuzz.dll">
+            <Link>harfbuzz.dll</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+</Project>
